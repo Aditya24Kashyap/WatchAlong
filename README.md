@@ -685,12 +685,5 @@ npm audit                # Security audit
 npm update               # Update dependencies
 ```
 
-### Directory Shortcuts (Add to .zshrc or .bashrc)
-```bash
-alias watchdev="cd ~/projects/WatchAlong && npm run dev"
-alias watchbuild="cd ~/projects/WatchAlong && npm run build"
-```
-
----
 
 
