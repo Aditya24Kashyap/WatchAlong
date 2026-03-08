@@ -573,44 +573,7 @@ npm run test
 }
 ```
 
----
 
-## 🚦 Roadmap & Future Enhancements
-
-### Phase 1: Core Features (Q1 2026)
-- [ ] User authentication (JWT-based)
-- [ ] Room creation & management
-- [ ] Basic synchronized playback
-- [ ] User presence indicators
-- [ ] Real-time notifications
-
-### Phase 2: Advanced Features (Q2 2026)
-- [ ] Chat & messaging system
-- [ ] Watch history & recommendations
-- [ ] User profiles & settings
-- [ ] Playlist creation
-- [ ] Social sharing features
-
-### Phase 3: Scale & Optimization (Q3 2026)
-- [ ] Performance optimization
-- [ ] Database optimization
-- [ ] CDN integration
-- [ ] Analytics dashboard
-- [ ] Admin panel
-
-### Phase 4: Platform Expansion (Q4 2026)
-- [ ] Mobile app (React Native)
-- [ ] Progressive Web App (PWA)
-- [ ] Desktop app (Electron)
-- [ ] Premium subscription model
-- [ ] API for third-party integrations
-
-### Phase 5: Enterprise Features (2027)
-- [ ] White-label solution
-- [ ] Advanced analytics
-- [ ] Custom branding
-- [ ] Enterprise support
-- [ ] SLA guarantees
 
 ---
 
@@ -661,13 +624,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support & Contact
-
-### Getting Help
-- 📖 [Documentation](./docs)
-- 🐛 [Issue Tracker](https://github.com/Aditya24Kashyap/WatchAlong/issues)
-- 💬 [Discussions](https://github.com/Aditya24Kashyap/WatchAlong/discussions)
-- 📧 Email: aditya24kashyap@gmail.com
 
 ### Community
 - ⭐ Star the repository
@@ -737,6 +693,4 @@ alias watchbuild="cd ~/projects/WatchAlong && npm run build"
 
 ---
 
-**Made with ❤️ by Aditya Kashyap**
 
-*Last Updated: March 6, 2026*
